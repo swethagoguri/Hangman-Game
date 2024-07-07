@@ -50,3 +50,11 @@ Welcome to the Hangman Game! This is a classic word-guessing game implemented us
 
 ## Restart:
 1.After a win or loss, the player can start a new game with a different word.
+
+## Technical Details
+## HTML: 
+Structure of the game interface.
+
+## JavaScript:
+Game logic, including word selection, input handling, and game state management.
+
